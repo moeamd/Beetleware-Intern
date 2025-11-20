@@ -1,8 +1,8 @@
 /*
 => Steps
-    1- change the parametras to function and the dependencies
-    2- check if dependencies is in cash obj then retun from cash 
-    3- if not store a new dependencies in the cash obj
+    1- Change the parameters to a function and the dependencies.
+    2- Check if the dependencies exist in the cache object; if yes, return from cache.
+    3- If not, store the new dependency in the cache object.
 */
 
 
